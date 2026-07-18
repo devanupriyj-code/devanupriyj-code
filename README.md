@@ -109,7 +109,7 @@ Node.js • Express • Python • MongoDB • pdfplumber
 
 * 💯 Solved **100+ DSA problems**
 * 🚀 Active on **LeetCode**
-* ⚔️ Codeforces Rating: **927**
+* ⚔️ Codeforces Rating: **1162**
 * 📖 Continuously improving algorithmic problem-solving skills
 
 ---
@@ -119,8 +119,8 @@ Node.js • Express • Python • MongoDB • pdfplumber
 ## 📫 Connect With Me
 
 * 📧 Email: **[devanupriyj@gmail.com](mailto:devanupriyj@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/devanupriy**
-* 💻 GitHub: **github.com/devanupriyj-code**
+* 💼 LinkedIn: **[linkedin.com/in/devanupriy](https://linkedin.com/in/devanupriy)**
+* 💻 GitHub: **[github.com/devanupriyj-code](https://github.com/devanupriyj-code)**
 
 ---
 
