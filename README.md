@@ -109,7 +109,7 @@ Node.js • Express • Python • MongoDB • pdfplumber
 
 * 💯 Solved **100+ DSA problems**
 * 🚀 Active on **LeetCode**
-* ⚔️ Codeforces Rating: **1162**
+* ⚔️ Codeforces Rating: **1392**
 * 📖 Continuously improving algorithmic problem-solving skills
 
 ---
